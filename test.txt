@@ -1,2 +1,6 @@
 in main branch
+<<<<<<< HEAD
 test
+=======
+main branch
+>>>>>>> f2a0c2a (chage in main)
